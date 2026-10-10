@@ -13,7 +13,7 @@ served HTML, so search engines can read it without executing JavaScript.
 personal-website/
 |-- index.html      Page content and search metadata
 |-- styles.css      Minimal typography and spacing
-|-- favicon.svg     Minimal placeholder browser icon
+|-- favicon.svg     Minimal browser icon
 |-- robots.txt      Search-crawler instructions
 |-- sitemap.xml     Search-engine sitemap
 `-- README.md
@@ -25,7 +25,7 @@ The profile information and final public URL are already populated in the
 site files. The public URL is:
 
 ```text
-https://shawnsylar.github.io/
+https://youpengxing.github.io/
 ```
 
 The remaining content step is to replace the publication note in `index.html`
@@ -37,19 +37,19 @@ engines from treating copies of the page as separate pages.
 
 ## Publish With GitHub Pages
 
-1. Create a public GitHub repository named exactly `shawnsylar.github.io`.
+1. Create a public GitHub repository named exactly `youpengxing.github.io`.
 2. Upload the contents of this `personal-website/` directory to the repository
    root.
 3. In the repository, open Settings, then Pages.
 4. Under Build and deployment, choose Deploy from a branch.
 5. Select the `main` branch and the `/ (root)` directory, then save.
-6. The public address is `https://shawnsylar.github.io/`.
+6. The public address is `https://youpengxing.github.io/`.
 
 No server, database, or build command is required.
 
 There is no separate setting to mark a repository as the account homepage. The
 repository becomes the user site because its name exactly matches
-`shawnsylar.github.io`.
+`youpengxing.github.io`.
 
 ## Publish With Cloudflare Pages
 
@@ -67,7 +67,7 @@ connected later in the Cloudflare dashboard.
 1. Confirm that the public website opens in a normal browser.
 2. Open Google Search Console and add a Domain property or URL-prefix property.
 3. Follow the verification instructions shown by Google.
-4. Submit `https://shawnsylar.github.io/sitemap.xml` in the Sitemaps section.
+4. Submit `https://youpengxing.github.io/sitemap.xml` in the Sitemaps section.
 5. Use URL Inspection for the homepage and request indexing.
 
 Indexing is not instantaneous. Google may take several days or longer to crawl,
